@@ -1,0 +1,1 @@
+-- Tässä vaiheessa ei ole tarpeen tehdä mitään, koska kaikki tapahtuu client-puolella
